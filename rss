@@ -1,0 +1,62 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<!-- <title>Graham Cluley</title> -->
+	<atom:link href="https://grahamcluley.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://grahamcluley.com</link>
+	<description>Computer security news, advice, and opinion</description>
+	<lastBuildDate>Wed, 30 Mar 2022 22:25:03 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://grahamcluley.com/wp-content/uploads/2020/08/cropped-gc-favicon-32x32.png</url>
+	<title>Graham Cluley</title>
+	<link>https://grahamcluley.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Smashing Security podcast #268: LinkedIn deepfakes, doxxing Russian spies, and a false alarm</title>
+		<link>https://grahamcluley.com/smashing-security-podcast-268/</link>
+					<comments>https://grahamcluley.com/smashing-security-podcast-268/#respond</comments>
+		
+		<dc:creator><![CDATA[Graham Cluley]]></dc:creator>
+		<pubDate>Wed, 30 Mar 2022 23:05:02 +0000</pubDate>
+				<category><![CDATA[Data loss]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[autocorrect]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[deepfake]]></category>
+		<category><![CDATA[doxxing]]></category>
+		<category><![CDATA[linkedin]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[ukraine]]></category>
+		<guid isPermaLink="false">https://grahamcluley.com/?p=9334239</guid>
+
+					<description><![CDATA[Strange goings-on on LinkedIn, Ukraine publishes a list of alleged Russian FSB agents, and police in Pittsburgh investigate an odd report of an active shooter.
+
+All this and much more is discussed in the latest edition of the award-winning "Smashing Security" podcast by computer security veterans Graham Cluley and Carole Theriault, joined this week by The Lazarus Heist's Geoff White.]]></description>
+		
+					<wfw:commentRss>https://grahamcluley.com/smashing-security-podcast-268/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://aphid.fireside.fm/d/1437767933/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/d0b33a18-41c4-4736-a94c-1fa24780ec3f.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>
+
